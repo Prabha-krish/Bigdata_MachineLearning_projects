@@ -1,1 +1,6 @@
-# Bigdata_MachineLearning_projects
+# Bigdata_MachineLearning_projects	
+This repository contains Big data and Machine Learning projects. These projects were undertaken to fulfil academic requirements, for self-learning and to gain a comprehensive understanding of the complete process of implementing machine learning algorithms. Each project follows a sequential process, commencing with exploratory data analysis, Outlier detection, data pre-processing and Data splitting, followed by model construction, training and evaluating model performance using various validation metrics.
+
+
+# 1. Brain stroke prediction
+Both the KMeans clustering and logistic regression algorithms were used to predict brain stroke in victims. The goal of this project was to find the best suitable algorithm for accurate brain stroke prediction. I have used brain stroke dataset from kaggle and performed data analysis, data cleaning, outlier detection, data visualisation, pre-processing on the dataset prior to the model implementation. The optimal K value was determined using the elbow method for KMeans clustering. The performance of both models was evaluated using different validation metrics. After comparing the model performances, the best model for brain stroke prediction was identified. 
