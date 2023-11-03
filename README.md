@@ -2,11 +2,11 @@
 This repository contains Big data and Machine Learning projects. These projects were undertaken to fulfil academic requirements, for self-learning and to gain a comprehensive understanding of the complete process of implementing machine learning algorithms. Each project follows a sequential process, commencing with exploratory data analysis, Outlier detection, data pre-processing and Data splitting, followed by model construction, training and evaluating model performance using various validation metrics.
 
 
-# 1. Brain stroke prediction 
+# 1. Brain Stroke prediction 
 Both the KMeans clustering and logistic regression algorithms were used to predict brain stroke in victims. The goal of this project was to find the best suitable algorithm for accurate brain stroke prediction. I have used brain stroke dataset from kaggle and performed data analysis, data cleaning, outlier detection, data visualisation, pre-processing on the dataset prior to the model implementation. The optimal K value was determined using the elbow method for KMeans clustering. The performance of both models was evaluated using different validation metrics. After comparing the model performances, the best model for brain stroke prediction was identified.
 
 # 2. Heart Disease prediction 
 Logistic Regression, K-Nearest Neighbors (KNN) and Support Vector Machine (SVM) algorithms were used to predict heart disease in victims. I have used heart disease dataset from kaggle and performed data analysis, data cleaning, outlier detection, data visualisation on the dataset prior to the model implementation.  Subsequently, I divided the dataset into training and testing sets with an 80:20 split. To evaluate the models' performance, I employed various validation metrics, including the classification report, confusion matrix, and accuracy. After a thorough comparison, it was evident that both the Logistic Regression and SVM models performs well on the heart disease dataset.
 
-# 3. spotify classification 
+# 3. Sotify Classification 
 Random Forest and Decision Tree with Bagging and Pasting algorithms were employed to classify songs based on their genre. I utilized the Spotify dataset from Kaggle and performed data analysis, data cleaning, outlier detection, and data visualization on the dataset before implementing the models. Subsequently, I divided both the training and test datasets into training and testing sets with a 75:25 split. Accuracy scores were used to evaluate the model performance on the dataset.
